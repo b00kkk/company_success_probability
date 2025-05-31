@@ -34,6 +34,8 @@
 
 
 ## 👓 EDA
+| ![image](https://github.com/user-attachments/assets/ef7f14d4-640e-4627-ae5e-6b4a40c3a5d5) | ![image](https://github.com/user-attachments/assets/7aad4d8d-f869-41ec-90aa-c134325cce61) |
+|--------------------------------------------------------|--------------------------------------------------------|
 
 
 
