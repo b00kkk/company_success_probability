@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/e7fb12ba-c57d-49d2-aa78-b21397cdbec5)
 
-`private : 49위`
+`private : 49위 / 592팀 (상위 8.3%)`
 
 ## 📝 대회 개요
 - 공식 사이트 : [링크](https://dacon.io/competitions/official/236475/overview/description) <- `클릭`
